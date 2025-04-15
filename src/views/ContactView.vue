@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import me from '../assets/me.jpeg'
-</script>
-
 <template>
   <div class="flex-1 flex flex-col justify-center items-center px-8 gap-3">
     <h1 class="text-3xl font-bold">Wanna reach out?</h1>
