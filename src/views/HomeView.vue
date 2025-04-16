@@ -4,8 +4,8 @@ import me from '../assets/me.jpeg'
 
 <template>
   <div class="hero flex-1">
-    <div class="hero-content flex-col md:flex-row items-center justify-between w-full px-8">
-      <div class="flex flex-col gap-2">
+    <div class="hero-content flex-col md:flex-row items-center justify-between w-full px-4">
+      <div class="flex flex-col gap-2 items-center text-center md:items-start md:text-left">
         <h1 class="text-4xl font-bold">Hi there, I'm <span class="text-blue-400">Miguel Buccat</span>!</h1>
         <p>I'm a freelance <span class="text-blue-300">web developer</span> based in the <span class="text-blue-300">Philippines</span>. I create modern and quality web solutions for businesses and my personal projects.</p>
         <div class="flex flex-row gap-2 pt-2">

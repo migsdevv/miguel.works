@@ -3,8 +3,8 @@ import me from '../assets/me.jpeg'
 </script>
 
 <template>
-  <div class="flex-1 flex flex-col justify-center items-center px-8 gap-3">
-    <div class="card bg-base-200 w-96">
+  <div class="flex-1 flex flex-col justify-center items-center px-4 gap-3">
+    <div class="card bg-base-200 w-full md:w-96">
       <div class="card-body">
         <div class="avatar mx-auto">
           <div class="w-40 rounded-full border-2 border-accent">
